@@ -1,2 +1,2 @@
-# creditcard
-신용카드 사기 탐지
+# movie-recommand
+영화 추천 모델
