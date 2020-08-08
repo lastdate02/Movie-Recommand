@@ -1,6 +1,5 @@
 # movie-recommand
-영화 추천 모델
-* https://www.kaggle.com/tmdb/tmdb-movie-metadata
+* 데이터 출처 : https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 ## Data
 * id
