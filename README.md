@@ -11,6 +11,12 @@
 * keywords : 영화의 키워드
 * overview : 개요 설명
 
+## Environmnent
+Python 3.7 / Windows 10 / RAM 8gb / i5-8300H / GTX 1050
+
+## Library
+* Scikit-learn
+
 ## Model
 * 컨텐츠 기반 필터링
 * 콘텐츠에 대한 여러 텍스트 정보들을 피쳐 벡터화
